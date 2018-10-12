@@ -25,15 +25,15 @@ I am currently a _junior_ that is enrolled in the _SEP_ program here at HSTAT, a
 ---
 
 ### **Portfolio Links**
-* Freshman Year : [Click here!](https://sites.google.com/a/hstat.org/syedaa4390sep09/)
-  * Scratch
-  * Robotics
-  * Python
-* Sophomore Year : [Click here!](https://sites.google.com/a/hstat.org/syedaa4390--sep10/)
-  * P5JS 
-  * Circuits
-  * Data
-* Junior Year : [Click here!](https://sites.google.com/a/hstat.org/syedaa4390sep11/)
-  * Git & Github
-  * Web Design
-  * 3D Modeling
+* [Freshman Year](https://sites.google.com/a/hstat.org/syedaa4390sep09/) :
+  * [Scratch](https://sites.google.com/a/hstat.org/syedaa4390sep09/scratch)
+  * [Robotics](https://sites.google.com/a/hstat.org/syedaa4390sep09/robotics)
+  * [Python](https://sites.google.com/a/hstat.org/syedaa4390sep09/python)
+* [Sophomore Year](https://sites.google.com/a/hstat.org/syedaa4390--sep10/) :
+  * [P5JS](https://sites.google.com/a/hstat.org/syedaa4390--sep10/p5js)
+  * [Circuits](https://sites.google.com/a/hstat.org/syedaa4390--sep10/circuits)
+  * [Data](https://sites.google.com/a/hstat.org/syedaa4390--sep10/data)
+* [Junior Year](https://sites.google.com/a/hstat.org/syedaa4390sep11/) :
+  * [Git & Github](https://sites.google.com/a/hstat.org/syedaa4390sep11/github)
+  * [Web Design](https://sites.google.com/a/hstat.org/syedaa4390sep11/web-design)
+  * [3D Modeling](https://sites.google.com/a/hstat.org/syedaa4390sep11/3d-modeling)
