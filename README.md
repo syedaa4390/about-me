@@ -2,7 +2,7 @@
 
 **Email** : syedaa4390@hstat.org
 
-**School** : High School of Telecommunications Arts and Technology
+**School** : High School of Telecommunication Arts and Technology
 
 ---
 
