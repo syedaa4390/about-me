@@ -1,6 +1,6 @@
 ## Syeda Sabiha Afroj
 
-**Email** : syedaa4390@hstat.org
+**Email** : [syedaa4390@hstat.org](mailto:syedaa4390@hstat.org)
 
 **School** : High School of Telecommunication Arts and Technology
 
@@ -11,7 +11,7 @@ I am currently a _junior_ that is enrolled in the _SEP_ program here at HSTAT, a
 
 ---
 
-### **Schedule** : 
+### Schedule: 
 1. Study Hall/ AP Chemistry
 2. AP Chemistry
 3. SEP 11
